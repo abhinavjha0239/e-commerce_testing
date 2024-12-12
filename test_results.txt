@@ -1,0 +1,2 @@
+PASSED: tests/test_e2e_flow.py::test_valid_purchase_flow
+PASSED: tests/test_e2e_flow.py::test_invalid_login
